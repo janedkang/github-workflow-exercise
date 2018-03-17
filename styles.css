@@ -14,3 +14,10 @@
   border: 1px solid #fff; /* For debugging */
   width: 900px;
 }
+
+div{
+  border: 20px solid red
+  width: 10px;
+  height: 10px;
+
+}
